@@ -193,7 +193,7 @@ form button:hover
     font-weight: 900;
     font-size: 40px;
     margin: auto;
-    padding-top: 120px;
+    padding-top: 30px;
     padding-left: 120px;
 }
 
@@ -214,7 +214,7 @@ form button:hover
 #tem h1
 {
     font-weight: 900;
-    background-color: red;
+
     font-size: 40px;
     margin: auto;
     /* padding-top: 120px; */
