@@ -211,6 +211,18 @@ form button:hover
     text-align: ce;
 } */
 
+#tem1 h1
+{
+    font-weight: 900;
+
+    font-size: 40px;
+    margin: auto;
+    /* padding-top: 120px; */
+    /* padding-left: 120px; */
+    padding-top: 70px;
+    padding-left: 120px;
+}
+
 #tem h1
 {
     font-weight: 900;
