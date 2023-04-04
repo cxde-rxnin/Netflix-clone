@@ -15,7 +15,7 @@
         
     header
     {
-        margin-bottom: -110px;
+        margin-bottom: -120px;
         /* display: flex;
         justify-content: space-evenly; */
     }
@@ -38,7 +38,6 @@
     {
         font-size: 17px;
         font-weight: 250;
-        margin-bottom: -50px;
     }
     
     .content h5
