@@ -32,14 +32,14 @@
         font-size: 30px; 
         padding-top: 5px;
         font-weight: 900;
-        line-height: 23.5px;
+        line-height: 24px;
     }
     
     .content h4
     {
         font-size: 17px;
         font-weight: 250;
-        padding-bottom: 10px;
+        padding-bottom: 3px;
     }
     
     .content h5
