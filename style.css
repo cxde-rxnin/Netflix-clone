@@ -217,7 +217,7 @@ form button:hover
     font-weight: 900;
     font-size: 40px;
     margin: auto;
-    padding-top: 120px;
+    /* padding-top: 120px; */
     /* padding-left: 120px; */
 =======
     padding-top: 30px;
