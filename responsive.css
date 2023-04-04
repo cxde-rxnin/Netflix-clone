@@ -172,11 +172,10 @@
     align-items: center;
 }
 
-.tab .don h5
+.tab .don p
 {
-    font-size: 8px; 
-    font-weight: 300;
-}
+    font-size: 10px;
+} 
 
 #non
 {
