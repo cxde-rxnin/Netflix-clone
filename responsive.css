@@ -15,7 +15,7 @@
         
     header
     {
-        margin-bottom: -95px;
+        margin-bottom: -110px;
         /* display: flex;
         justify-content: space-evenly; */
     }
@@ -37,7 +37,6 @@
     .content h4
     {
         font-size: 17px;
-        padding-top: 5px;
         font-weight: 250;
         margin-bottom: -50px;
     }
